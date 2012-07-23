@@ -1,0 +1,4 @@
+# -*- coding: utf-8 *-*# -*- coding: utf-8 *-*
+This is stuff i typed into a file.
+It is really cool stuff.
+Lots and lots of fun to have in there.
