@@ -15,7 +15,7 @@ def take_the_shot():
 
 def wait():
     print """
-    You wait and the animas move around, now you have a perfect shot
+    You wait and the animlas move around, now you have a perfect shot
     lined up for a alpha elk, this is a fine and majestic creature it will
     certinly be respected as a fine kill if it is quick.
     """

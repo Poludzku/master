@@ -1,5 +1,5 @@
 # -*- coding: utf-8 *-*
-
+from WearwolfAnuksGift import anuks_gift
 
 def wait_bear():
     print """You wait for the bear to pass and it seems like you missed your
@@ -53,7 +53,7 @@ def take_the_shot_bluefox():
     next = raw_input()
     if next == "flee":
         flee()
-    elif next == "Greatings great Anuk!":
+    elif next == "Greatings great Anuk":
         anuks_gift()
     else:
         print "You are so astounded by Anuks greatness you cant think properly!"

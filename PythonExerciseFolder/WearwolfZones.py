@@ -4,9 +4,10 @@ from WearwolfOasisZone import take_the_shot
 
 from WearwolfOasisZone import wait
 
+
 def spring_oasis():
     print """The oasis is a big clear pool with many Elks, dears and even none
-    hostile bears all shering the sam water source, it is prefect harmony.
+    hostile bears all shering the same water source, it is prefect harmony.
     you have a perfect shot lined up for a dear do you want to 'take the shot'
     or 'wait'?
     """
@@ -21,6 +22,7 @@ def spring_oasis():
         chance and return home with no trophy""")
 
 #-----------------------------------------------------------------------------
+
 
 def mountines():
     print """The mountines are steep and coverd in snow, in the distance you
@@ -46,10 +48,11 @@ def mountines():
 
 #-----------------------------------------------------------------------------
 
+
 def forest():
-    print """The forest is vast and missleading the only way to know where you
-    are is to find key landmarks, you come close to the first landmark do you
-    take a right or left?"""
+    print """The forest is vast and missleading almost like a maze,
+    the only way to know where you are is to find key landmarks, you come
+    close to the first landmark do you take a right or left?"""
 
     next = raw_input("> ")
 
